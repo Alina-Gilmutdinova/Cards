@@ -1,0 +1,2 @@
+export const lorem = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consequatur corporis cumque error expedita facilis harum magni necessitatibus pariatur provident, quis ratione voluptatibus! Blanditiis est iusto maxime molestiae nihil reprehenderit?';
+export const pic = 'https://www.freedigitalphotos.net/images/previews/cat-eyes-100219489.jpg';
